@@ -1,6 +1,14 @@
-# Welcome to your CDK TypeScript project!
+# Welcome to the "Validating A GitHub Webhook Request With AWS Lambda" CDK project
 
-This is a blank project for TypeScript development with CDK.
+Infrastructure code for validating a GitHub webhook request with Lambda.
+
+Part of [Validating A GitHub Webhook Request With AWS Lambda](https://www.uphill.dev/blog/validating-github-webhook/)
+blog post on https://www.uphill.dev. 
+
+Will create the following:
+![Webhook infrastructure](webhook_lambda.png)
+
+This is a project for TypeScript development with CDK.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
