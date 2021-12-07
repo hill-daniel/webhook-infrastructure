@@ -1,6 +1,6 @@
 # Welcome to the "Validating A GitHub Webhook Request With AWS Lambda" CDK project
 
-Infrastructure code for validating a GitHub webhook request with Lambda.
+Infrastructure code for validating a GitHub webhook request with AWS Lambda.
 
 Part of [Validating A GitHub Webhook Request With AWS Lambda](https://www.uphill.dev/blog/validating-github-webhook/)
 blog post on https://www.uphill.dev. 
