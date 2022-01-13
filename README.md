@@ -3,7 +3,7 @@
 Infrastructure code for validating a GitHub webhook request with AWS Lambda.
 
 Part of [Validating A GitHub Webhook Request With AWS Lambda](https://www.uphill.dev/blog/validating-github-webhook/)
-blog post on https://www.uphill.dev. 
+blog post on [uphill.dev](https://www.uphill.dev). 
 
 Will create the following:
 ![Webhook infrastructure](webhook_lambda.png)
